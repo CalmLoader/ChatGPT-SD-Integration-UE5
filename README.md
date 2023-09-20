@@ -20,5 +20,5 @@
 ![92f221b57e8c2469929f8e21e57d5dd9e20ecfdf862e9213869d4841216c65f8.png](https://mytechplayer.com/upload/2023/08/92f221b57e8c2469929f8e21e57d5dd9e20ecfdf862e9213869d4841216c65f8-bc57c13f753d409fbb976b58202ab991.png)
 
 
-# My Blog
- http://mytechplayer.com/
+# 我的博客
+mytechplayer.com
